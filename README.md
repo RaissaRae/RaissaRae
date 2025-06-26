@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hey there, I'm Raissa Rae!
 
 I'm an **adventurous** and **creative** developer who loves exploring ideas and building things from scratch. Whether it's code or crafts, I'm always excited to create something meaningful and fun!
